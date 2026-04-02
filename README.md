@@ -2,4 +2,4 @@
 
 I'm currently studying game programming at TheSignAcademy 👾🎮
 
-![]([https://i.imgur.com/cELs4pl.gif](https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg))
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmk5KcrMEFoal50UzgzMjmcG_MMm-kXaFWw&s)
